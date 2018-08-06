@@ -1,5 +1,3 @@
-
-
 def my_fav_things
   
   fav_animal = "monkeys"
