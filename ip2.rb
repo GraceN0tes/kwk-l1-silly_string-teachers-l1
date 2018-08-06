@@ -1,1 +1,5 @@
-fav_animal = ""
+fav_animal = "monkeys"
+fav_place = "Chicago"
+fav_artist = "Zaha Hadid"
+
+def my_fav_things #method signature 
